@@ -4,14 +4,12 @@ title: About My Project
 permalink: /about-my-project.html
 
 subtitle: Human-Computer Interaction & Adaptive Systems
-project_title: "My Summer Research Project"
+project_title: "Developing Edge AI Applications for Human-Robot Collaboration in LEGO Assembling Operations"
 
 problem: |
-  Briefly describe the problem your project tackles. Who is affected? Why does this
-  matter? What gap or limitation are you trying to address?
+  his project aims to develop edge AI applications that enable a robotic arm to autonomously
+  retrieve and pick up a specific LEGO brick from a pile to assist LEGO assembling operations. 
 
-  Aim for two to three short paragraphs. Plain language is great — your audience
-  may not be specialists in your sub-field.
 
 approach: |
   Describe how you'll approach the problem. A bulleted plan works well:
@@ -31,10 +29,10 @@ outcome: |
 final_report_url: https://example.com/your-report.pdf
 
 grad_mentor:
-  name: Alex Morgan
+  name: Derrick Mirindi
   linkedin: https://www.linkedin.com/in/example
 
 faculty_mentor:
-  name: Dr. Pat Nguyen
+  name: Yuhan Jiang
   linkedin: https://www.linkedin.com/in/example
 ---
