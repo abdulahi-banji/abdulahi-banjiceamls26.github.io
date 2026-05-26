@@ -3,11 +3,11 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Human-Computer Interaction & Adaptive Systems
+subtitle: Human-Robot Collaboration in LEGO Assembling Operations
 project_title: "Developing Edge AI Applications for Human-Robot Collaboration in LEGO Assembling Operations"
 
 problem: |
-  his project aims to develop edge AI applications that enable a robotic arm to autonomously
+  This project aims to develop edge AI applications that enable a robotic arm to autonomously
   retrieve and pick up a specific LEGO brick from a pile to assist LEGO assembling operations. 
 
 
