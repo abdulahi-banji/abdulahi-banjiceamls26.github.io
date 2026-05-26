@@ -9,9 +9,9 @@ about:
   image: assets/images/image.png
   linkedin: https://www.linkedin.com/in/abdulahi-oyebanji/
   bio: |
-    Hi! I'm Clyde, a Computer Science student in the CEAMLS SAIRI Summer Research program.
+    Hi! I'm Abdulahi Oyebanji, a Computer Science student in the CEAMLS SAIRI Summer Research program.
 
-    My research interests sit at the intersection of human-computer interaction and applied
+    My research interests sits at the intersection of human-computer interaction and applied
     machine learning. I'm especially curious about how everyday tools can be made more
     accessible and adaptive through smart software.
 
