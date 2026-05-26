@@ -13,7 +13,7 @@ quick_facts:
   - "🚀 I Love One piece"
 
 linkedin: https://www.linkedin.com/in/abdulahi-oyebanji/
-image: /assets/images/profile.svg
+image: assets/images/image.png
 
 # A "Currently" block — three short status lines for the home page.
 currently:
