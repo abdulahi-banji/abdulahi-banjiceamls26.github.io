@@ -30,7 +30,7 @@ about:
       description: Sci-fi novels and design essays — both equally inspiring.
 
   gallery:
-    - image: /assets/images/image.png
+    - image: assets/images/image.png
       caption: A great day on the trail.
     - image: /assets/images/gallery-2.svg
       caption: One of my recent illustrations.
