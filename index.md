@@ -1,26 +1,26 @@
 ---
 layout: home
 title: Home
-display_name: Clyde Tandjong                  # <- shown as the big display name on the hero
+display_name: Abdulahi Oyebanji                  # <- shown as the big display name on the hero
 description: My CEAMLS SAIRI Summer Research Site
 
 motto: "Curious about how research can shape better tools for everyday life."
 
 quick_facts:
-  - "🎓 Junior, Computer Science"
-  - "🔬 Interested in Quantum Physics"
-  - "📍 Based in Baltimore, MD"
-  - "🚀 I like pineapples"
+  - "🎓 Sophomore, Computer Science"
+  - "🔬 Interested in AI/ML "
+  - "📍 Based in Houston, TX"
+  - "🚀 I Love One piece"
 
-linkedin: https://www.linkedin.com/in/example
+linkedin :https://www.linkedin.com/in/abdulahi-oyebanji/
 image: /assets/images/profile.svg
 
 # A "Currently" block — three short status lines for the home page.
 currently:
   - label: Reading
-    text: "The Design of Everyday Things — Don Norman"
+    text: "Fast and slow — Daniel Kahneman."
   - label: Building
-    text: "A small Raspberry Pi sensor logging dashboard"
+    text: "AgentTrace – LLM Agentic Workflow Observability Dashboard"
   - label: Wondering
-    text: "How accessibility research can shape consumer hardware"
+    text: ""
 ---
