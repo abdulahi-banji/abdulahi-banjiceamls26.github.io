@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Abdulahi Oyebanji
   role: Sophomore, Computer Science
-  image: /assets/images/profile.svg
+  image: assets/images/image.png
   linkedin: https://www.linkedin.com/in/abdulahi-oyebanji/
   bio: |
     Hi! I'm Clyde, a Computer Science student in the CEAMLS SAIRI Summer Research program.
