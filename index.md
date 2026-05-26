@@ -12,7 +12,7 @@ quick_facts:
   - "📍 Based in Houston, TX"
   - "🚀 I Love One piece"
 
-linkedin :https://www.linkedin.com/in/abdulahi-oyebanji/
+linkedin: https://www.linkedin.com/in/abdulahi-oyebanji/
 image: /assets/images/profile.svg
 
 # A "Currently" block — three short status lines for the home page.
