@@ -16,17 +16,17 @@ about:
     accessible and adaptive through smart software. I aspire to be an AI and systems engineer.
 
     Outside of class, you'll find me watching anime, playing snooker, or rock climbing 
-  hobbies:
-    - icon: https://cdn-icons-png.flaticon.com/512/1829/1829589.png
+ hobbies:
+    - icon: 🎌
       title: Anime
       description: I watch and follow anime series — from shonen classics to slice-of-life gems.
-    - icon: https://cdn-icons-png.flaticon.com/512/3143/3143474.png
+    - icon: 🧗
       title: Rock Climbing
       description: Bouldering and wall climbing — nothing beats the focus it demands.
-    - icon: https://cdn-icons-png.flaticon.com/512/2702/2702154.png
+    - icon: 📚
       title: Reading
       description: Sci-fi novels, design essays, and good educational books — all equally inspiring.
-
+      
   gallery:
     - image: assets/images/image.png
       caption: A great day on the trail.
