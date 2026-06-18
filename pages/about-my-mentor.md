@@ -17,7 +17,7 @@ graduate_mentor:
 faculty_mentor:
   name: Yuhan Jiang
   title: Associate Professor, School of Engineering
-  image: /assets/images/faculty-mentor.svg
+  image: /assets/images/faculty-mentor.png
   website: https://www.yuhanjiang.com/
   bio: |
     Dr. Yuhan Jiang, an Assistant Professor at Morgan State University, holds joint appointments in the Civil and Environmental Engineering Department and the Center for Equitable Artificial Intelligence and Machine Learning Systems (CEAMLS). Before this, Dr. Jiang served as an Assistant Professor of Built Environment at North Carolina Agricultural and Technical State University, where he founded and directed the Center of Excellence for Innovation in Affordable Housing and Sustainable Communities (CIAHSC.com). 
