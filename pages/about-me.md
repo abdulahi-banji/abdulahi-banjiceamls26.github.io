@@ -25,8 +25,8 @@ about:
   gallery:
     - image: assets/images/image.png
       caption: A great day on the trail.
-    - image: /assets/images/gallery-2.svg
+    - image: /assets/images/recent_illustration.JPG
       caption: One of my recent illustrations.
-    - image: /assets/images/
+    - image: /assets/images/hanging_out.jpg
       caption: Hanging out with friends after class.
 ---
